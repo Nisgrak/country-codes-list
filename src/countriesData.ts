@@ -48,7 +48,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "فارسی",
     countryCallingCode: "93",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇦🇫",
   },
   {
@@ -112,7 +112,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Հայերեն",
     countryCallingCode: "374",
     areaCodes: [],
-    region: "Europe",
+    region: "Asia",
     flag: "🇦🇲",
   },
   {
@@ -144,7 +144,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "672",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇦🇶",
   },
   {
@@ -176,7 +176,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1684",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇦🇸",
   },
   {
@@ -208,7 +208,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "61",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇦🇺",
   },
   {
@@ -256,7 +256,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "azərbaycan dili",
     countryCallingCode: "994",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇦🇿",
   },
   {
@@ -304,7 +304,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "বাংলা",
     countryCallingCode: "880",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇧🇩",
   },
   {
@@ -368,7 +368,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "973",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇧🇭",
   },
   {
@@ -448,7 +448,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Bahasa Melayu, بهاس ملايو‎",
     countryCallingCode: "673",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇧🇳",
   },
   {
@@ -480,7 +480,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Nederlands, Vlaams",
     countryCallingCode: "5997",
     areaCodes: [],
-    region: "Unknown",
+    region: "North America",
     flag: "🇧🇶",
   },
   {
@@ -512,7 +512,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "རྫོང་ཁ",
     countryCallingCode: "975",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇧🇹",
   },
   {
@@ -714,7 +714,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "86",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇨🇳",
   },
   {
@@ -794,7 +794,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Nederlands, Vlaams",
     countryCallingCode: "599",
     areaCodes: [],
-    region: "Unknown",
+    region: "North America",
     flag: "🇨🇼",
   },
   {
@@ -810,7 +810,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "61",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇨🇽",
   },
   {
@@ -858,7 +858,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "253",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇩🇯",
   },
   {
@@ -906,7 +906,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "213",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇩🇿",
   },
   {
@@ -954,7 +954,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "20",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇪🇬",
   },
   {
@@ -1051,7 +1051,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "679",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇫🇯",
   },
   {
@@ -1067,7 +1067,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "691",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇫🇲",
   },
   {
@@ -1132,7 +1132,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "ქართული",
     countryCallingCode: "995",
     areaCodes: [],
-    region: "Europe",
+    region: "Asia",
     flag: "🇬🇪",
   },
   {
@@ -1212,7 +1212,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "kalaallisut, kalaallit oqaasii",
     countryCallingCode: "299",
     areaCodes: [],
-    region: "Europe",
+    region: "North America",
     flag: "🇬🇱",
   },
   {
@@ -1324,7 +1324,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇬🇺",
   },
   {
@@ -1372,7 +1372,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "852",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇭🇰",
   },
   {
@@ -1452,7 +1452,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Bahasa Indonesia",
     countryCallingCode: "62",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇮🇩",
   },
   {
@@ -1484,7 +1484,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "עברית",
     countryCallingCode: "972",
     areaCodes: [],
-    region: "Europe",
+    region: "Asia",
     flag: "🇮🇱",
   },
   {
@@ -1517,7 +1517,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "हिन्दी, हिंदी",
     countryCallingCode: "91",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇮🇳",
   },
   {
@@ -1533,7 +1533,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "964",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇮🇶",
   },
   {
@@ -1549,7 +1549,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "فارسی",
     countryCallingCode: "98",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇮🇷",
   },
   {
@@ -1629,7 +1629,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "962",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇯🇴",
   },
   {
@@ -1645,7 +1645,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "日本語 (にほんご)",
     countryCallingCode: "81",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇯🇵",
   },
   {
@@ -1677,7 +1677,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Кыргызча, Кыргыз тили",
     countryCallingCode: "996",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇰🇬",
   },
   {
@@ -1693,7 +1693,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
     countryCallingCode: "855",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇰🇭",
   },
   {
@@ -1741,7 +1741,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "686",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇰🇮",
   },
   {
@@ -1773,7 +1773,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "965",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇰🇼",
   },
   {
@@ -1789,7 +1789,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "қазақ тілі",
     countryCallingCode: "7",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇰🇿",
   },
   {
@@ -1805,7 +1805,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "961",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇱🇧",
   },
   {
@@ -1853,7 +1853,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "සිංහල",
     countryCallingCode: "94",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇱🇰",
   },
   {
@@ -1949,7 +1949,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "218",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇱🇾",
   },
   {
@@ -1965,7 +1965,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "212",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇲🇦",
   },
   {
@@ -2061,7 +2061,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "ဗမာစာ",
     countryCallingCode: "95",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇲🇲",
   },
   {
@@ -2077,7 +2077,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Монгол хэл",
     countryCallingCode: "976",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇲🇳",
   },
   {
@@ -2093,7 +2093,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "853",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇲🇴",
   },
   {
@@ -2125,7 +2125,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "222",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇲🇷",
   },
   {
@@ -2189,7 +2189,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "ދިވެހި",
     countryCallingCode: "960",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇲🇻",
   },
   {
@@ -2237,7 +2237,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Bahasa Melayu, بهاس ملايو‎",
     countryCallingCode: "60",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇲🇾",
   },
   {
@@ -2285,7 +2285,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "687",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇳🇨",
   },
   {
@@ -2301,7 +2301,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "672",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇳🇫",
   },
   {
@@ -2365,7 +2365,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "नेपाली",
     countryCallingCode: "977",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇳🇵",
   },
   {
@@ -2381,7 +2381,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Dorerin Naoero",
     countryCallingCode: "674",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇳🇷",
   },
   {
@@ -2397,7 +2397,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "683",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇳🇺",
   },
   {
@@ -2413,7 +2413,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "te reo Māori",
     countryCallingCode: "64",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇳🇿",
   },
   {
@@ -2429,7 +2429,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "968",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇴🇲",
   },
   {
@@ -2477,7 +2477,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "689",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇵🇫",
   },
   {
@@ -2493,7 +2493,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "675",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇵🇬",
   },
   {
@@ -2509,7 +2509,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "92",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇵🇰",
   },
   {
@@ -2557,7 +2557,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "64",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇵🇳",
   },
   {
@@ -2589,7 +2589,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "970",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇵🇸",
   },
   {
@@ -2621,7 +2621,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "680",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇵🇼",
   },
   {
@@ -2653,7 +2653,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "974",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇶🇦",
   },
   {
@@ -2669,7 +2669,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "262",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Africa",
     flag: "🇷🇪",
   },
   {
@@ -2749,7 +2749,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "966",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇸🇦",
   },
   {
@@ -2765,7 +2765,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "677",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇸🇧",
   },
   {
@@ -2813,7 +2813,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "65",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇸🇬",
   },
   {
@@ -2941,7 +2941,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Soomaaliga, af Soomaali",
     countryCallingCode: "252",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇸🇴",
   },
   {
@@ -3021,7 +3021,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Nederlands, Vlaams",
     countryCallingCode: "1721",
     areaCodes: [],
-    region: "Unknown",
+    region: "North America",
     flag: "🇸🇽",
   },
   {
@@ -3037,7 +3037,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "963",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇸🇾",
   },
   {
@@ -3085,7 +3085,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "ไทย",
     countryCallingCode: "66",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇹🇭",
   },
   {
@@ -3101,7 +3101,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "тоҷикӣ, toçikī, تاجیکی‎",
     countryCallingCode: "992",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇹🇯",
   },
   {
@@ -3117,7 +3117,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "690",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇹🇰",
   },
   {
@@ -3133,7 +3133,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Português",
     countryCallingCode: "670",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇹🇱",
   },
   {
@@ -3149,7 +3149,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Türkmen, Түркмен",
     countryCallingCode: "993",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇹🇲",
   },
   {
@@ -3165,7 +3165,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "216",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇹🇳",
   },
   {
@@ -3181,7 +3181,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "676",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇹🇴",
   },
   {
@@ -3197,7 +3197,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Türkçe",
     countryCallingCode: "90",
     areaCodes: [],
-    region: "Europe",
+    region: "Asia",
     flag: "🇹🇷",
   },
   {
@@ -3229,7 +3229,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "688",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇹🇻",
   },
   {
@@ -3325,7 +3325,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Oʻzbek, Ўзбек, أۇزبېك‎",
     countryCallingCode: "998",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇺🇿",
   },
   {
@@ -3405,7 +3405,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Tiếng Việt",
     countryCallingCode: "84",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇻🇳",
   },
   {
@@ -3421,7 +3421,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Bislama",
     countryCallingCode: "678",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇻🇺",
   },
   {
@@ -3437,7 +3437,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "681",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇼🇫",
   },
   {
@@ -3453,7 +3453,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "gagana fa'a Samoa",
     countryCallingCode: "685",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Australia/Ocenia",
     flag: "🇼🇸",
   },
   {
@@ -3469,7 +3469,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "967",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇾🇪",
   },
   {
@@ -3581,7 +3581,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "63",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇵🇭",
   },
   {
@@ -3613,7 +3613,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "971",
     areaCodes: [],
-    region: "Arab States",
+    region: "Asia",
     flag: "🇦🇪",
   },
   {
@@ -3677,7 +3677,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "العربية",
     countryCallingCode: "249",
     areaCodes: [],
-    region: "Arab States",
+    region: "Africa",
     flag: "🇸🇩",
   },
   {
@@ -3693,7 +3693,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "ພາສາລາວ",
     countryCallingCode: "856",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇱🇦",
   },
   {
@@ -3709,7 +3709,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "",
     countryCallingCode: "886",
     areaCodes: [],
-    region: "Asia & Pacific",
+    region: "Asia",
     flag: "🇹🇼",
   },
   {
@@ -3805,7 +3805,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1 242",
     areaCodes: [],
-    region: "Caribbean",
+    region: "South/Latin America",
     flag: "🇧🇸",
   },
   {
@@ -3821,7 +3821,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "61 891",
     areaCodes: [],
-    region: "Australia",
+    region: "Australia/Ocenia",
     flag: "🇨🇨",
   },
   {
@@ -3853,7 +3853,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "682",
     areaCodes: [],
-    region: "South Pacific Ocean",
+    region: "Australia/Ocenia",
     flag: "🇨🇰",
   },
   {
@@ -3869,7 +3869,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "500",
     areaCodes: [],
-    region: "South Atlantic Ocean",
+    region: "South/Latin America",
     flag: "🇫🇰",
   },
   {
@@ -3901,7 +3901,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "672",
     areaCodes: [],
-    region: "Indian Ocean",
+    region: "Asia",
     flag: "🇭🇲",
   },
   {
@@ -3917,7 +3917,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "246",
     areaCodes: [],
-    region: "Indian Ocean",
+    region: "Africa",
     flag: "🇮🇴",
   },
   {
@@ -3933,7 +3933,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "269",
     areaCodes: [],
-    region: "Indian Ocean",
+    region: "Africa",
     flag: "🇰🇲",
   },
   {
@@ -3949,7 +3949,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1 345",
     areaCodes: [],
-    region: "Caribbean Sea",
+    region: "South/Latin America",
     flag: "🇰🇾",
   },
   {
@@ -3965,7 +3965,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "692",
     areaCodes: [],
-    region: "Pacific Ocean",
+    region: "Australia/Ocenia",
     flag: "🇲🇭",
   },
   {
@@ -3981,7 +3981,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1 670",
     areaCodes: [],
-    region: "Pacific Ocean",
+    region: "Australia/Ocenia",
     flag: "🇲🇵",
   },
   {
@@ -3997,7 +3997,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1 649",
     areaCodes: [],
-    region: "Atlantic Ocean",
+    region: "North America",
     flag: "🇹🇨",
   },
   {
@@ -4013,7 +4013,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "Français",
     countryCallingCode: "672",
     areaCodes: [],
-    region: "Indian Ocean",
+    region: "Asia",
     flag: "🇹🇫",
   },
   {
@@ -4029,7 +4029,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameLocal: "English",
     countryCallingCode: "1",
     areaCodes: [],
-    region: "Pacific Ocean",
+    region: "North America",
     flag: "🇺🇲",
   },
   {
@@ -4075,7 +4075,7 @@ const countriesData: CountryData[] = [
     officialLanguageNameEn: "Dutch, Flemish",
     officialLanguageNameLocal: "Nederlands, Vlaams",
     countryCallingCode: "599",
-    region: "Europe",
+    region: "North America",
     flag: "🇧🇶",
   },
 ];
